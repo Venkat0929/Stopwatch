@@ -1,0 +1,25 @@
+.stopwatch {
+text-align: center;
+margin: 20px;
+padding: 20px;
+border: solid 2px green;
+width: 50%;
+margin-left: 350px;
+border-radius: 10px;
+}
+  
+.display {
+font-size: 2rem;
+margin-bottom: 10px;
+}
+  
+.buttons {
+margin: 5px;
+padding: 10px 20px;
+font-size: 1rem;
+}
+.display {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #312c2c;
+}
